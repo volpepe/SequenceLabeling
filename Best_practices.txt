@@ -1,8 +1,0 @@
-Create the venv inside main root
-
-python3 -m venv env
-source env/bin/activate
-
-Then do all the project. At the end you write
-
-pip3 freeze > requirements.txt
