@@ -2,19 +2,8 @@
 
 First assignement for the NLP course
 
-
-
-
-
-
-
-
-
-
-----------------------
-
-To use the repo copy paste into terminal the following
-
-python3 venv -m env
-source env/bin/activate
-pip3 install -r requirements.txt
+Members:
+- Angelani Davide: https://github.com/qnozo - davide.angelani@studio.unibo.it
+- Ceresini Marcello: https://github.com/MarcelloCeresini - marcello.ceresini@studio.unibo.it
+- Cichetti Federico: https://github.com/volpepe - federico.cichetti@studio.unibo.it
+- Ruberto Giuseppe: https://github.com/grubio234 - giuseppe.ruberto2@studio.unibo.it
