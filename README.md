@@ -11,3 +11,5 @@ Members:
 ---
 
 The trained weights for the models can be downloaded [here](https://drive.google.com/file/d/1J2K2k7ti66r4aoN8RVHgmmKgzcE9GJf6/view?usp=sharing)
+
+Link to the report: https://www.overleaf.com/project/61b9d5ccb4911f4642603c3d
